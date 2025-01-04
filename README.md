@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xeoxd2606
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python,css
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: the word before a noun is called pronoun
